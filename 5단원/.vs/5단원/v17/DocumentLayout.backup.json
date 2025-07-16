@@ -1,0 +1,245 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\studyC\\5\uB2E8\uC6D0\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{BE84DA89-026C-4838-91CE-AF705F1D60E7}|5\uB2E8\uC6D0.vcxproj|C:\\studyC\\5\uB2E8\uC6D0\\\uB3C4\uC804\uBB38\uC81C.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{BE84DA89-026C-4838-91CE-AF705F1D60E7}|5\uB2E8\uC6D0.vcxproj|solutionrelative:\uB3C4\uC804\uBB38\uC81C.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE84DA89-026C-4838-91CE-AF705F1D60E7}|5\uB2E8\uC6D0.vcxproj|C:\\studyC\\5\uB2E8\uC6D0\\\uD655\uC778\uBB38\uC81C2-3.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{BE84DA89-026C-4838-91CE-AF705F1D60E7}|5\uB2E8\uC6D0.vcxproj|solutionrelative:\uD655\uC778\uBB38\uC81C2-3.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE84DA89-026C-4838-91CE-AF705F1D60E7}|5\uB2E8\uC6D0.vcxproj|C:\\studyC\\5\uB2E8\uC6D0\\\uD655\uC778\uBB38\uC81C2-2.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{BE84DA89-026C-4838-91CE-AF705F1D60E7}|5\uB2E8\uC6D0.vcxproj|solutionrelative:\uD655\uC778\uBB38\uC81C2-2.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE84DA89-026C-4838-91CE-AF705F1D60E7}|5\uB2E8\uC6D0.vcxproj|C:\\studyC\\5\uB2E8\uC6D0\\\uC608\uC81C5-6.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{BE84DA89-026C-4838-91CE-AF705F1D60E7}|5\uB2E8\uC6D0.vcxproj|solutionrelative:\uC608\uC81C5-6.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE84DA89-026C-4838-91CE-AF705F1D60E7}|5\uB2E8\uC6D0.vcxproj|C:\\studyC\\5\uB2E8\uC6D0\\\uC608\uC81C5-5.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{BE84DA89-026C-4838-91CE-AF705F1D60E7}|5\uB2E8\uC6D0.vcxproj|solutionrelative:\uC608\uC81C5-5.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE84DA89-026C-4838-91CE-AF705F1D60E7}|5\uB2E8\uC6D0.vcxproj|C:\\studyC\\5\uB2E8\uC6D0\\\uC608\uC81C5-4.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{BE84DA89-026C-4838-91CE-AF705F1D60E7}|5\uB2E8\uC6D0.vcxproj|solutionrelative:\uC608\uC81C5-4.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE84DA89-026C-4838-91CE-AF705F1D60E7}|5\uB2E8\uC6D0.vcxproj|C:\\studyC\\5\uB2E8\uC6D0\\\uD655\uC778\uBB38\uC81C1-3.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{BE84DA89-026C-4838-91CE-AF705F1D60E7}|5\uB2E8\uC6D0.vcxproj|solutionrelative:\uD655\uC778\uBB38\uC81C1-3.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE84DA89-026C-4838-91CE-AF705F1D60E7}|5\uB2E8\uC6D0.vcxproj|C:\\studyC\\5\uB2E8\uC6D0\\\uD655\uC778\uBB38\uC81C1-2.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{BE84DA89-026C-4838-91CE-AF705F1D60E7}|5\uB2E8\uC6D0.vcxproj|solutionrelative:\uD655\uC778\uBB38\uC81C1-2.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE84DA89-026C-4838-91CE-AF705F1D60E7}|5\uB2E8\uC6D0.vcxproj|C:\\studyC\\5\uB2E8\uC6D0\\\uD655\uC778\uBB38\uC81C1-1-1.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{BE84DA89-026C-4838-91CE-AF705F1D60E7}|5\uB2E8\uC6D0.vcxproj|solutionrelative:\uD655\uC778\uBB38\uC81C1-1-1.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE84DA89-026C-4838-91CE-AF705F1D60E7}|5\uB2E8\uC6D0.vcxproj|C:\\studyC\\5\uB2E8\uC6D0\\\uD655\uC778\uBB38\uC81C1-1-2.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{BE84DA89-026C-4838-91CE-AF705F1D60E7}|5\uB2E8\uC6D0.vcxproj|solutionrelative:\uD655\uC778\uBB38\uC81C1-1-2.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE84DA89-026C-4838-91CE-AF705F1D60E7}|5\uB2E8\uC6D0.vcxproj|C:\\studyC\\5\uB2E8\uC6D0\\\uC608\uC81C5-3.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{BE84DA89-026C-4838-91CE-AF705F1D60E7}|5\uB2E8\uC6D0.vcxproj|solutionrelative:\uC608\uC81C5-3.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE84DA89-026C-4838-91CE-AF705F1D60E7}|5\uB2E8\uC6D0.vcxproj|C:\\studyC\\5\uB2E8\uC6D0\\\uC608\uC81C5-2.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{BE84DA89-026C-4838-91CE-AF705F1D60E7}|5\uB2E8\uC6D0.vcxproj|solutionrelative:\uC608\uC81C5-2.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE84DA89-026C-4838-91CE-AF705F1D60E7}|5\uB2E8\uC6D0.vcxproj|C:\\studyC\\5\uB2E8\uC6D0\\\uC608\uC81C5-1.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{BE84DA89-026C-4838-91CE-AF705F1D60E7}|5\uB2E8\uC6D0.vcxproj|solutionrelative:\uC608\uC81C5-1.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "\uB3C4\uC804\uBB38\uC81C.c",
+              "DocumentMoniker": "C:\\studyC\\5\uB2E8\uC6D0\\\uB3C4\uC804\uBB38\uC81C.c",
+              "RelativeDocumentMoniker": "\uB3C4\uC804\uBB38\uC81C.c",
+              "ToolTip": "C:\\studyC\\5\uB2E8\uC6D0\\\uB3C4\uC804\uBB38\uC81C.c",
+              "RelativeToolTip": "\uB3C4\uC804\uBB38\uC81C.c",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2025-07-11T17:42:43.238Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "\uD655\uC778\uBB38\uC81C2-3.c",
+              "DocumentMoniker": "C:\\studyC\\5\uB2E8\uC6D0\\\uD655\uC778\uBB38\uC81C2-3.c",
+              "RelativeDocumentMoniker": "\uD655\uC778\uBB38\uC81C2-3.c",
+              "ToolTip": "C:\\studyC\\5\uB2E8\uC6D0\\\uD655\uC778\uBB38\uC81C2-3.c",
+              "RelativeToolTip": "\uD655\uC778\uBB38\uC81C2-3.c",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACEAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2025-07-11T17:37:05.504Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "\uD655\uC778\uBB38\uC81C2-2.c",
+              "DocumentMoniker": "C:\\studyC\\5\uB2E8\uC6D0\\\uD655\uC778\uBB38\uC81C2-2.c",
+              "RelativeDocumentMoniker": "\uD655\uC778\uBB38\uC81C2-2.c",
+              "ToolTip": "C:\\studyC\\5\uB2E8\uC6D0\\\uD655\uC778\uBB38\uC81C2-2.c",
+              "RelativeToolTip": "\uD655\uC778\uBB38\uC81C2-2.c",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2025-07-11T17:32:49.145Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "\uC608\uC81C5-6.c",
+              "DocumentMoniker": "C:\\studyC\\5\uB2E8\uC6D0\\\uC608\uC81C5-6.c",
+              "RelativeDocumentMoniker": "\uC608\uC81C5-6.c",
+              "ToolTip": "C:\\studyC\\5\uB2E8\uC6D0\\\uC608\uC81C5-6.c",
+              "RelativeToolTip": "\uC608\uC81C5-6.c",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2025-07-11T16:27:50.69Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "\uC608\uC81C5-5.c",
+              "DocumentMoniker": "C:\\studyC\\5\uB2E8\uC6D0\\\uC608\uC81C5-5.c",
+              "RelativeDocumentMoniker": "\uC608\uC81C5-5.c",
+              "ToolTip": "C:\\studyC\\5\uB2E8\uC6D0\\\uC608\uC81C5-5.c",
+              "RelativeToolTip": "\uC608\uC81C5-5.c",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2025-07-11T15:38:46.973Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "\uC608\uC81C5-4.c",
+              "DocumentMoniker": "C:\\studyC\\5\uB2E8\uC6D0\\\uC608\uC81C5-4.c",
+              "RelativeDocumentMoniker": "\uC608\uC81C5-4.c",
+              "ToolTip": "C:\\studyC\\5\uB2E8\uC6D0\\\uC608\uC81C5-4.c",
+              "RelativeToolTip": "\uC608\uC81C5-4.c",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2025-07-11T15:31:35.938Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "\uD655\uC778\uBB38\uC81C1-3.c",
+              "DocumentMoniker": "C:\\studyC\\5\uB2E8\uC6D0\\\uD655\uC778\uBB38\uC81C1-3.c",
+              "RelativeDocumentMoniker": "\uD655\uC778\uBB38\uC81C1-3.c",
+              "ToolTip": "C:\\studyC\\5\uB2E8\uC6D0\\\uD655\uC778\uBB38\uC81C1-3.c",
+              "RelativeToolTip": "\uD655\uC778\uBB38\uC81C1-3.c",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2025-07-11T15:18:49.943Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "\uD655\uC778\uBB38\uC81C1-2.c",
+              "DocumentMoniker": "C:\\studyC\\5\uB2E8\uC6D0\\\uD655\uC778\uBB38\uC81C1-2.c",
+              "RelativeDocumentMoniker": "\uD655\uC778\uBB38\uC81C1-2.c",
+              "ToolTip": "C:\\studyC\\5\uB2E8\uC6D0\\\uD655\uC778\uBB38\uC81C1-2.c",
+              "RelativeToolTip": "\uD655\uC778\uBB38\uC81C1-2.c",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2025-07-11T15:13:48.574Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "\uD655\uC778\uBB38\uC81C1-1-2.c",
+              "DocumentMoniker": "C:\\studyC\\5\uB2E8\uC6D0\\\uD655\uC778\uBB38\uC81C1-1-2.c",
+              "RelativeDocumentMoniker": "\uD655\uC778\uBB38\uC81C1-1-2.c",
+              "ToolTip": "C:\\studyC\\5\uB2E8\uC6D0\\\uD655\uC778\uBB38\uC81C1-1-2.c",
+              "RelativeToolTip": "\uD655\uC778\uBB38\uC81C1-1-2.c",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2025-07-11T15:11:31.719Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "\uD655\uC778\uBB38\uC81C1-1-1.c",
+              "DocumentMoniker": "C:\\studyC\\5\uB2E8\uC6D0\\\uD655\uC778\uBB38\uC81C1-1-1.c",
+              "RelativeDocumentMoniker": "\uD655\uC778\uBB38\uC81C1-1-1.c",
+              "ToolTip": "C:\\studyC\\5\uB2E8\uC6D0\\\uD655\uC778\uBB38\uC81C1-1-1.c",
+              "RelativeToolTip": "\uD655\uC778\uBB38\uC81C1-1-1.c",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2025-07-11T15:10:24.519Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "\uC608\uC81C5-3.c",
+              "DocumentMoniker": "C:\\studyC\\5\uB2E8\uC6D0\\\uC608\uC81C5-3.c",
+              "RelativeDocumentMoniker": "\uC608\uC81C5-3.c",
+              "ToolTip": "C:\\studyC\\5\uB2E8\uC6D0\\\uC608\uC81C5-3.c",
+              "RelativeToolTip": "\uC608\uC81C5-3.c",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2025-07-11T15:02:43.726Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "\uC608\uC81C5-2.c",
+              "DocumentMoniker": "C:\\studyC\\5\uB2E8\uC6D0\\\uC608\uC81C5-2.c",
+              "RelativeDocumentMoniker": "\uC608\uC81C5-2.c",
+              "ToolTip": "C:\\studyC\\5\uB2E8\uC6D0\\\uC608\uC81C5-2.c",
+              "RelativeToolTip": "\uC608\uC81C5-2.c",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2025-07-11T14:58:31.777Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "\uC608\uC81C5-1.c",
+              "DocumentMoniker": "C:\\studyC\\5\uB2E8\uC6D0\\\uC608\uC81C5-1.c",
+              "RelativeDocumentMoniker": "\uC608\uC81C5-1.c",
+              "ToolTip": "C:\\studyC\\5\uB2E8\uC6D0\\\uC608\uC81C5-1.c",
+              "RelativeToolTip": "\uC608\uC81C5-1.c",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2025-07-11T14:54:13.491Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
