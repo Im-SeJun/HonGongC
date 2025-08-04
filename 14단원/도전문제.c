@@ -21,9 +21,9 @@ int main(void)
 		int sum = 0;
 		for (j = 0; j < 5; j++)
 		{
-			sum += ary[i][j];
+			sum += pary[i][j];
 		}
-		ary[i][5] = sum;
+		pary[i][5] = sum;
 	}
 
 	for (i = 0; i < 5; i++)
@@ -31,15 +31,15 @@ int main(void)
 		int sum2 = 0;
 		for (j = 0; j < 4; j++)
 		{
-			sum2 += ary[j][i];
+			sum2 += pary[j][i];
 		}
-		ary[4][i] = sum2;
+		pary[4][i] = sum2;
 	}
 
 	for (i = 0; i < 4; i++)
 	{
 		int sum3 = 0;
-		ary[4][5] += ary[i][5];
+		pary[4][5] += pary[i][5];
 	}
 
 	for (i = 0; i < 5; i++)

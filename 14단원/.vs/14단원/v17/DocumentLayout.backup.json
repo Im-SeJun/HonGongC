@@ -42,16 +42,8 @@
       "DocumentGroups": [
         {
           "DockedWidth": 329,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 0,
           "Children": [
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
-            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
@@ -60,7 +52,7 @@
               "RelativeDocumentMoniker": "\uB3C4\uC804\uBB38\uC81C.c",
               "ToolTip": "C:\\studyC\\14\uB2E8\uC6D0\\\uB3C4\uC804\uBB38\uC81C.c*",
               "RelativeToolTip": "\uB3C4\uC804\uBB38\uC81C.c*",
-              "ViewState": "AgIAABsAAAAAAAAAAAAAACkAAAAKAAAAAAAAAA==",
+              "ViewState": "AgIAABsAAAAAAAAAAAAAACUAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
               "WhenOpened": "2025-08-04T10:30:11.922Z",
               "EditorCaption": ""
@@ -75,8 +67,7 @@
               "RelativeToolTip": "\uC608\uC81C14-7.c",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAKAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
-              "WhenOpened": "2025-08-04T10:13:14.806Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-08-04T10:13:14.806Z"
             },
             {
               "$type": "Document",
@@ -88,8 +79,7 @@
               "RelativeToolTip": "\uC608\uC81C14-6.c",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAKAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
-              "WhenOpened": "2025-08-04T10:06:48.027Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-08-04T10:06:48.027Z"
             },
             {
               "$type": "Document",
@@ -101,8 +91,7 @@
               "RelativeToolTip": "\uC608\uC81C14-5.c",
               "ViewState": "AgIAAAkAAAAAAAAAAAAAABoAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
-              "WhenOpened": "2025-08-04T08:17:55.439Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-08-04T08:17:55.439Z"
             },
             {
               "$type": "Document",
