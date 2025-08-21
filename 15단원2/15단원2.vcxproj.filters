@@ -27,5 +27,26 @@
     <ClCompile Include="예제15-3.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="예제15-4.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="예제15-5.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="예제15-6.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="예제15-7.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="예제15-8.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="예제15-9.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="도전문제.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
