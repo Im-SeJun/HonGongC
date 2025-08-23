@@ -1,0 +1,79 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\studyC\\19-9\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{CEBE31DC-EE96-4D7E-91A7-C48A5AC84E74}|19-9.vcxproj|C:\\studyC\\19-9\\average.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{CEBE31DC-EE96-4D7E-91A7-C48A5AC84E74}|19-9.vcxproj|solutionrelative:average.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CEBE31DC-EE96-4D7E-91A7-C48A5AC84E74}|19-9.vcxproj|C:\\studyC\\19-9\\input.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{CEBE31DC-EE96-4D7E-91A7-C48A5AC84E74}|19-9.vcxproj|solutionrelative:input.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CEBE31DC-EE96-4D7E-91A7-C48A5AC84E74}|19-9.vcxproj|C:\\studyC\\19-9\\main.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{CEBE31DC-EE96-4D7E-91A7-C48A5AC84E74}|19-9.vcxproj|solutionrelative:main.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 329,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "average.c",
+              "DocumentMoniker": "C:\\studyC\\19-9\\average.c",
+              "RelativeDocumentMoniker": "average.c",
+              "ToolTip": "C:\\studyC\\19-9\\average.c*",
+              "RelativeToolTip": "average.c*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2025-08-23T05:58:13.988Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "input.c",
+              "DocumentMoniker": "C:\\studyC\\19-9\\input.c",
+              "RelativeDocumentMoniker": "input.c",
+              "ToolTip": "C:\\studyC\\19-9\\input.c",
+              "RelativeToolTip": "input.c",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2025-08-23T05:56:29.479Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "main.c",
+              "DocumentMoniker": "C:\\studyC\\19-9\\main.c",
+              "RelativeDocumentMoniker": "main.c",
+              "ToolTip": "C:\\studyC\\19-9\\main.c",
+              "RelativeToolTip": "main.c",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2025-08-23T05:53:21.333Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

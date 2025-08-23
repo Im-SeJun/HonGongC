@@ -10,5 +10,13 @@ int main(void)
 	printf("버전 %d입니다.\n", VER);
 #endif
 
+#ifdef BIT16
+	max = 32767;
+#else
+	max = 214783647;
+#endif
 
+	printf("int형 변수의 최댓값 : %d\n", max);
+
+	return 0; 
 }
