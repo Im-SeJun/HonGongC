@@ -22,7 +22,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 329,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Bookmark",
@@ -38,7 +38,19 @@
               "RelativeToolTip": "point.h",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAGAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2025-08-23T06:17:25.037Z",
+              "WhenOpened": "2025-08-23T06:17:25.037Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "line.h",
+              "DocumentMoniker": "C:\\studyC\\19-10\\line.h",
+              "RelativeDocumentMoniker": "line.h",
+              "ToolTip": "C:\\studyC\\19-10\\line.h",
+              "RelativeToolTip": "line.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-08-23T06:18:44.659Z",
               "EditorCaption": ""
             },
             {
@@ -55,21 +67,7 @@
               "RelativeToolTip": "main.c",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAKAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
-              "WhenOpened": "2025-08-23T06:19:30.304Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "line.h",
-              "DocumentMoniker": "C:\\studyC\\19-10\\line.h",
-              "RelativeDocumentMoniker": "line.h",
-              "ToolTip": "C:\\studyC\\19-10\\line.h",
-              "RelativeToolTip": "line.h",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAIAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2025-08-23T06:18:44.659Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-08-23T06:19:30.304Z"
             }
           ]
         }

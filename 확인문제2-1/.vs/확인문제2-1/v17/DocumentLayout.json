@@ -1,0 +1,62 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\studyC\\\uD655\uC778\uBB38\uC81C2-1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{15F7BA68-8D9D-4AAD-BC99-69127B282E80}|\uD655\uC778\uBB38\uC81C2-1.vcxproj|C:\\studyC\\\uD655\uC778\uBB38\uC81C2-1\\main.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{15F7BA68-8D9D-4AAD-BC99-69127B282E80}|\uD655\uC778\uBB38\uC81C2-1.vcxproj|solutionrelative:main.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{15F7BA68-8D9D-4AAD-BC99-69127B282E80}|\uD655\uC778\uBB38\uC81C2-1.vcxproj|C:\\studyC\\\uD655\uC778\uBB38\uC81C2-1\\sub.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{15F7BA68-8D9D-4AAD-BC99-69127B282E80}|\uD655\uC778\uBB38\uC81C2-1.vcxproj|solutionrelative:sub.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 329,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "sub.c",
+              "DocumentMoniker": "C:\\studyC\\\uD655\uC778\uBB38\uC81C2-1\\sub.c",
+              "RelativeDocumentMoniker": "sub.c",
+              "ToolTip": "C:\\studyC\\\uD655\uC778\uBB38\uC81C2-1\\sub.c",
+              "RelativeToolTip": "sub.c",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2025-09-03T10:32:37.873Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "main.c",
+              "DocumentMoniker": "C:\\studyC\\\uD655\uC778\uBB38\uC81C2-1\\main.c",
+              "RelativeDocumentMoniker": "main.c",
+              "ToolTip": "C:\\studyC\\\uD655\uC778\uBB38\uC81C2-1\\main.c",
+              "RelativeToolTip": "main.c",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2025-09-03T10:31:10.431Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
